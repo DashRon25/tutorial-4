@@ -12,4 +12,5 @@ execute:
 library(tidyverse)
 ```
 
-Using data from a March 2024 poll from YouGov consisting of 1559 US Citizens, we seek to determine the proportion of voters that will pick Joe Biden as their candidate in the 2024 election.
+Using data from a March 2024 poll from YouGov consisting of 1559 US Citizens, we seek to determine the proportion of voters that will pick Joe Biden as their candidate in the 2024 election. One problem with this approach is that the data may not properly represent the actual population due to people that have potentially completely different outlooks.
+
